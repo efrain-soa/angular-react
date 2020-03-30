@@ -238,6 +238,8 @@ public class BscsRepository extends AbstractRepositorio<Object> implements Seria
 	}
 
 	
-	
+	public void saludar(){
+		
+	}
 }
 
