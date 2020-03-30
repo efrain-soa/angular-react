@@ -237,6 +237,11 @@ public class BscsRepository extends AbstractRepositorio<Object> implements Seria
 		}
 	}
 
+
+8	public void metodo1(name){
+	
+	logger.info(name+"Entrando al metodo1");
+     }
 	
 	public void saludar(){
 		
